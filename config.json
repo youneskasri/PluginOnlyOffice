@@ -1,0 +1,15 @@
+{
+    "name": "YK Plugin",
+    "guid": "asc.{7820b48c-4c5e-43bb-b142-e0709e354b6c}",
+    "baseUrl": "",
+    "variations": [
+        {
+            "description": "My test plugin",
+            "url": "index.html",
+            "icons": ["icon.png", "icon@2x.png"],
+            "isViewer": false,
+            "EditorsSupport": ["word", "cell"],
+            "isVisual": false
+        }
+    ]
+}
